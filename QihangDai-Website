@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset='UTF-8'>
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="shortcut icon" href="img/LOGO.ico">
+  <meta name="description" content="Market Administration">
+  <meta name="author" content="862292682">
+
+  <title>Qihang Dai - Economics</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom fonts for this template -->
+  <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet">
+  <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
+
+  <!-- Custom styles for this template -->
+  <link href="css/resume.min.css" rel="stylesheet">
+
+</head>
+
+<body id="page-top">
+  <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+    <a class="navbar-brand js-scroll-trigger" href="#page-top">
+      <span class="d-block d-lg-none">Qhang Dai</span>
+      <span class="d-none d-lg-block">
+        <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/QihangDai.jpg" alt="QihangDai">
+      </span>
+    </a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav">
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#about">About</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#experience">Experience</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#education">Education</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link js-scroll-trigger" href="#portfolio">Portfolio</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+  </nav>
+
+  <div class="container-fluid p-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="about">
+      <div class="w-100">
+        <h1 class="mb-3">Qihang Dai
+        </h1>
+        <div class="subheading mb-5">Economics📚</div>
+        <p class="lead mb-4">Hello everyone! My name is Qihang Dai, you can also call me Tim! It is really a pleasure to meet you guys! I am now a freshman, I am now studying at the University of California, Riverside, and my major is economics. The reason why I chose the course of economics is that I have had no idea about money since I was a child. I usually want to spend it all when I have money, but slowly, when I grow up, I find that financial management is really true. It’s a very important thing. When a person learns to accumulate his own property, then he will become richer and richer (this is my personal opinion LOL). So, let’s lead you to understand what Economics is and learn the experience of this profession!<br><br>
+
+        So, what is economics? Many laymen, seeing the word "economy", take it for granted that economics is the study of how to "make money". But this is wrong. Economics is a science that helps people through the world. From a macro perspective, it can make a country prosperous and strong, and from a micro perspective, it can make people live happier lives. So how does it play this important role? That is the choice. Because in most cases at the same time, you can only choose to do one thing. If you do this one, you can’t do the other one. Because of the one-dimensional nature of time, it is irreversible. Choices will affect a person's future life! So the right choice is a very important thing, even the most important thing! Everyone knows the importance of choice. For example, two pieces of money are thrown on the ground, one is 10 yuan and the other is 100 yuan, provided that only one can be picked. This is simple, so everyone knows the one that should be picked up for 100 yuan. But what about after the difficulty has been upgraded? People's choices are very prone to problems. For example, should I marry a handsome boyfriend who is a little poor? Should we marry a wealthy businessman who doesn't look very good? For another example, after growing up, do you choose to be a teacher? Or choose to be a doctor? Because of being a teacher, you cannot be a doctor. This is the so-called opportunity cost. You give up one thing to get another, and you cannot own it at the same time.
+
+Economics is to help you analyze the current situation and future expectations, and teach you how to choose! This is true of personal choice, and so is the choice of a country's development mode! It's just more complicated, the principle is one! What kind of development method is chosen to make this country develop best! So it is the science of economics and the people.<br><br>
+
+        Surely many people will ask is it difficult to study economics? How to choose is the best answer, this is the core question of economics! Want to make it clear what is the best? To be accurate, data and norms are needed to support and demonstrate. Therefore, economics learning and research introduce mathematics as a tool to achieve the goal of more accurate analysis. This is why you see so many formulas and functions in many professional economics textbooks. So for the general public who graduated from non-economics majors, what level should we learn? If you only want to deal with various choices in life, it is enough for you to learn some basic knowledge of economics. There is no need to use mathematical tools to analyze. Because the opportunity cost of buying an umbrella and buying a book is easy to estimate, there is no need to be so precise! As long as you don’t introduce too many mathematical tools, you want to learn some basic knowledge of economics is actually very simple, because we usually live in the real society, often just to verify some common things in life, and then change some mistakes. It’s just the inertia of thinking, it’s easy to understand because the economy is life!
+        </p>
+        <div class="social-icons">
+          <a target="_blank" id="socialicon-1" href="https://www.linkedin.com/in/qihang-dai-59292a225/">
+            <i class="fab fa-linkedin-in"></i>
+          </a>
+          <a target="_blank" id="socialicon-2" href="https://github.com/QihangDai">
+            <i class="fab fa-github"></i>
+          </a>
+          <a target="_blank" id="socialicon-3" href="https://twitter.com/QihangDai">
+            <i class="fab fa-twitter"></i>
+          </a>
+          <a target="_blank" id="socialicon-4" href="mailto:qdai009@ucr.edu">
+            <i class="fa fa-envelope"></i>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <hr class="m-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex justify-content-center" id="experience">
+      <div class="w-100">
+        <h2 class="mb-5">Experience</h2>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5 experience">
+          <div class="resume-content">
+            <h3 class="mb-0">Trainee</h3>
+            <div class="subheading mb-3"><a target="_blank" href="https://www.1688.com/store/3EF23AC550A61E10BC284B779C862413.html">Dad's Company</a></div>
+            <p>
+              • Organize income data<br> 
+              • Presented innovative ideas at staff meetings<br>
+              • Serious work, unique ideas<br>
+            </p>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">June 2020 </span>
+          </div>
+        </div>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5 experience">
+          <div class="resume-content">
+            <h3 class="mb-0">Summer school curriculum leader</h3>
+            <div class="subheading mb-3"><a target="_blank" href="https://recreation.ubc.ca/camps/">UBC</a></div>
+            <p>
+              • Outstanding Student in the Business Division of UBC Summer School 2019<br>
+              • Lead the team members to win the championship of the school simulation business competition<br>
+            </p>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">July 2019</span>
+          </div>
+        </div>
+
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5 experience">
+          <div class="resume-content">
+            <h3 class="mb-0">Student president</h3>
+            <div class="subheading mb-3"><a target="_blank" href="http://kunshan.kcis.org.cn/default.html">KCIS(KANGCHIAO INTERNATIONAL SCHOOL）</a></div>
+            <p>
+            • Help the school organize student activities<br>
+            • Help students in difficulties with schoolwork guidance<br>
+         </p>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">January 2018 - January 2021</span>
+          </div>
+        </div>
+
+
+
+      </div>
+
+    </section>
+
+    <hr class="m-0">
+
+    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="education">
+      <div class="w-100">
+        <h2 class="mb-5">Education</h2>
+
+        <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5 education">
+          <div class="resume-content">
+            <h3 class="mb-0">UC Riverside</h3>
+            <div class="subheading mb-3">Freshman in Economics</div>
+            <div>Economics</div>
+          </div>
+          <div class="resume-date text-md-right">
+            <span class="text-primary">August 2021 - December 2025</span>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <hr class="m-0">
+
+    <section class="resume-section p-1 p-lg-5 d-flex align-items-center" id="portfolio">
+      <div class="w-100">
+        <h2 class="mb-5">Portfolio</h1>
+        <center>
+            <img src="img/S1.jpg" width="500px">
+            <img src="img/S2.jpg" width="500px"><br>
+            <img src="img/S3.jpg" width="500px">
+            <img src="img/S4.jpg" width="500px"><br>
+        </center>
+      </div>
+    </section>
+
+    <hr class="m-0">
+    <center>&copy; <script type="text/javascript">
+  document.write(new Date().getFullYear());
+  </script> Qihang Dai</center><br>
+  </div>
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+  <!-- Plugin JavaScript -->
+  <script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+  <!-- Custom scripts for this template -->
+  <script src="js/resume.min.js"></script>
+</body>
+</html>
